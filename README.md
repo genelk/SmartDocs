@@ -2,7 +2,7 @@
 
 A powerful document analysis and summarization tool that leverages Claude API and Hugging Face models to extract insights from documents.
 
-![SmartDocs Banner](https://raw.githubusercontent.com/yourusername/smartdocs/main/assets/banner.png)
+
 
 ## Features
 
